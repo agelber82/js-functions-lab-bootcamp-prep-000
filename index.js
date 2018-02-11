@@ -4,5 +4,5 @@ function happyHolidays() {
 }
 
 function say(Happy holidays, kylie) {
-  return `${greeting} , ${name}!`
+  return `${greeting}, ${name}!`
 }
